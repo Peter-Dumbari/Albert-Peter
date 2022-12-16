@@ -1,0 +1,25 @@
+body{
+    background-color: gray;
+    padding: 1rem;
+}
+#main{
+    background-color: #fff;
+    padding: 2rem;
+}
+
+#title {
+  font-size: 400%;
+  width: 60vmax;
+}
+
+.center {
+  margin: auto;
+  padding: auto;
+  text-align: center;
+}
+
+#image {
+  max-width: 70%;
+  height: auto;
+  display: block;
+}
